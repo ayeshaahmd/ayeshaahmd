@@ -1,147 +1,230 @@
 
-<!-- ==================== ANIMATED HEADER ==================== -->
+<!--
+  AY E S H A   A H M E D   S I D D I Q U I
+  Profile design: Midnight Teal / Electric Mint / Warm Amber
+-->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:4361EE,100:00C9FF&height=190&section=header&text=Ayesha%20Ahmed%20Siddiqui&fontSize=35&fontColor=ffffff&fontAlignY=36&animation=fadeIn" alt="Ayesha Ahmed Siddiqui" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,45:123B40,100:24D6B0&height=200&section=header&text=AYESHA%20AHMED%20SIDDIQUI&fontSize=31&fontColor=F4F7F5&fontAlignY=37&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20WEB%20DEVELOPMENT%20%7C%20AI&descSize=12&descAlignY=59&descColor=C1F5E8" alt="Ayesha Ahmed Siddiqui - Developer Profile" />
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Frontend+Developer;AI+Enthusiast;Building+Meaningful+Digital+Experiences" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=24D6B0&center=true&vCenter=true&width=620&lines=Engineering+ideas+into+digital+experiences;Building+thoughtful+web+applications;Exploring+AI+and+intelligent+solutions;Design-minded.+Curious.+Always+learning." alt="Animated developer introduction" />
 </a>
 
-<p>
-  <a href="https://ayesha-ahmed-siddiqui-portfolio.ai.studio">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/ayeshaahmd">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://github.com/ayeshaahmd?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-238636?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-  </a>
-</p>
+<br/>
+
+<a href="https://ayesha-ahmed-siddiqui-portfolio.ai.studio">
+  <img src="https://img.shields.io/badge/PORTFOLIO-24D6B0?style=for-the-badge&logo=googlechrome&logoColor=101820" alt="Portfolio" />
+</a>
+<a href="https://github.com/ayeshaahmd?tab=repositories">
+  <img src="https://img.shields.io/badge/PROJECTS-1B3035?style=for-the-badge&logo=github&logoColor=24D6B0" alt="Projects" />
+</a>
+<a href="https://github.com/ayeshaahmd">
+  <img src="https://img.shields.io/badge/OPEN_SOURCE-1B3035?style=for-the-badge&logo=github&logoColor=F3B75B" alt="GitHub profile" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ayeshaahmd&style=flat-square&color=24D6B0&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-<!-- ==================== ABOUT ME ==================== -->
+## `01` — About Me
 
-## 👩‍💻 About Me
+I'm a **Software Engineering student at Jinnah University for Women, Karachi**, interested in building useful, accessible, and thoughtfully designed digital products.
 
-- 🎓 Software Engineering student at Jinnah University for Women, Karachi.
-- 💻 Interested in frontend development, full-stack applications, and AI-powered solutions.
-- 🎨 Combining design, branding, and technology to create meaningful digital experiences.
-- 🌱 Continuously learning, experimenting, and building projects.
+My work brings together frontend development, full-stack engineering, design, and AI exploration. I enjoy turning ideas into practical applications and improving them through experimentation and iteration.
 
----
-
-<!-- ==================== TECH STACK ==================== -->
-
-## 🛠️ Technologies & Tools
-
-**Languages**
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-</p>
-
-**Development**
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-**Design & Tools**
-
-<p>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</p>
+- **Building:** Web applications and personal projects.
+- **Exploring:** AI-powered applications and intelligent systems.
+- **Interested in:** Frontend engineering, usability, and software quality.
+- **Approach:** Learn continuously, build practically, improve consistently.
 
 ---
 
-<!-- ==================== FEATURED PROJECTS ==================== -->
+## `02` — Technical Stack
 
-## 🚀 Featured Projects
+<div align="center">
 
-| Project | Description | Tech |
-|:--|:--|:--|
-| 🎓 [Acadence AI](https://github.com/ayeshaahmd/Acadence-AI) | An educational platform with intelligent features and intuitive learning experiences. | Python |
-| 🌐 [Converso](https://github.com/ayeshaahmd/Converso) | A multilingual communication platform with instant translated messages. | JavaScript |
-| 🏡 [SafeHome Vision](https://github.com/ayeshaahmd/SafeHome-Vision) | A computer vision project exploring intelligent home monitoring. | Python |
-| 🚚 [Delivery System](https://github.com/ayeshaahmd/Delivery-System) | A food delivery management system. | PHP |
-| 🛡️ [FocusGuard](https://github.com/ayeshaahmd/Focusguard) | A productivity application for task tracking and focus management. | Python |
-| 🧰 [Generator](https://github.com/ayeshaahmd/Generator) | A Python-based project. | Python |
-| 🍲 [Recommender](https://github.com/ayeshaahmd/Recommender) | A recipe recommendation system. | HTML |
-| 🍽️ [Mealonix](https://mealonix.netlify.app/) | A food-focused web application. | Web |
-| ⚙️ [TaskSphere](https://github.com/ayeshaahmd/tasksphere) | A task management application with software optimization improvements. | Web |
-| 📦 [Packaging Web App](https://github.com/ayeshaahmd/Packaging-Web-App) | A web application focused on packaging solutions. | Web |
-| 👗 [Opulent Modest](https://github.com/ayeshaahmd) | A modest-fashion brand and digital commerce concept. | Web |
-| 📦 [Essa Packages](https://essapackages.netlify.app/) | A website showcasing packaging products and solutions. | Web |
+### Languages
 
-<p align="center">
-  <a href="https://github.com/ayeshaahmd?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,php&theme=dark" alt="Python, Java, JavaScript, HTML, CSS, and PHP" />
+
+### Frameworks & Development
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,bootstrap,tailwind,wordpress&theme=dark" alt="React, Node.js, Express, MongoDB, Bootstrap, Tailwind CSS, and WordPress" />
+
+### Design & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,canva&theme=dark" alt="Figma, Git, GitHub, Visual Studio Code, and Canva" />
+
+</div>
 
 ---
 
-<!-- ==================== GITHUB STATISTICS ==================== -->
+## `03` — Selected Work
 
-## 📊 GitHub Analytics
+<div align="center">
+
+### Featured Projects
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Acadence AI
+
+An educational platform with intelligent features and intuitive learning experiences.
+
+**Focus:** Educational technology · User-centered design
+
+<a href="https://github.com/ayeshaahmd/Acadence-AI">Explore repository ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Converso
+
+A multilingual communication platform that translates messages to help people communicate across languages.
+
+**Focus:** Full-stack development · Translation · Real-time communication
+
+<a href="https://github.com/ayeshaahmd/Converso">Explore repository ↗</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 SafeHome Vision
+
+A computer vision project exploring intelligent home monitoring.
+
+**Focus:** Python · Computer vision
+
+<a href="https://github.com/ayeshaahmd/SafeHome-Vision">Explore repository ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ FocusGuard
+
+A productivity application designed to support task organization, focus, and daily planning.
+
+**Focus:** Python · Productivity
+
+<a href="https://github.com/ayeshaahmd/Focusguard">Explore repository ↗</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ TaskSphere
+
+A task management application with a focus on software quality and optimization.
+
+**Focus:** Software construction · Optimization
+
+<a href="https://github.com/ayeshaahmd/tasksphere">Explore repository ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🍽️ Mealonix
+
+A food-focused web application available as a live project.
+
+**Focus:** Web development
+
+<a href="https://mealonix.netlify.app/">View live application ↗</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 Packaging Web App
+
+A web application focused on packaging solutions.
+
+**Focus:** Web development
+
+<a href="https://github.com/ayeshaahmd/Packaging-Web-App">Explore repository ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚚 Delivery System
+
+A food delivery management system.
+
+**Focus:** PHP · Database applications
+
+<a href="https://github.com/ayeshaahmd/Delivery-System">Explore repository ↗</a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://essapackages.netlify.app/">
+  <img src="https://img.shields.io/badge/ALSO_EXPLORE-Essa_Packages-1B3035?style=for-the-badge&logo=googlechrome&logoColor=24D6B0" alt="Essa Packages website" />
+</a>
+<a href="https://github.com/ayeshaahmd?tab=repositories">
+  <img src="https://img.shields.io/badge/ALL_REPOSITORIES-View_More-1B3035?style=for-the-badge&logo=github&logoColor=F3B75B" alt="All repositories" />
+</a>
+
+</div>
+
+---
+
+## `04` — GitHub Insights
 
 <div align="center">
 
 <a href="https://github.com/ayeshaahmd">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayeshaahmd&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Ayesha's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayeshaahmd&show_icons=true&hide_border=true&bg_color=101820&title_color=24D6B0&icon_color=F3B75B&text_color=E4EEEB&rank_icon=github" alt="GitHub statistics" />
 </a>
 <a href="https://github.com/ayeshaahmd">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaahmd&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most used programming languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaahmd&layout=compact&hide_border=true&bg_color=101820&title_color=24D6B0&text_color=E4EEEB" alt="Most used programming languages" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/ayeshaahmd">
-<img width="65%" src="https://streak-stats.demolab.com/?user=ayeshaahmd&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</a>
-
-<br/>
-
-<a href="https://github.com/ayeshaahmd">
-View GitHub Profile and Contributions →
+  <img width="70%" src="https://streak-stats.demolab.com?user=ayeshaahmd&hide_border=true&background=101820&ring=24D6B0&fire=F3B75B&currStreakLabel=24D6B0&sideLabels=E4EEEB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9BAEAA" alt="GitHub contribution streak" />
 </a>
 
 </div>
 
 ---
 
-<!-- ==================== FOOTER ==================== -->
+## `05` — Let's Connect
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9FF&height=100&section=footer" alt="" />
+Interested in collaborating, learning from other developers, and building meaningful digital experiences.
 
-### ✨ Thanks for visiting my profile!
-
-*Learning, creating, and building one project at a time.*
+<br/>
 
 <a href="https://ayesha-ahmed-siddiqui-portfolio.ai.studio">
-<img src="https://img.shields.io/badge/Explore_My_Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio" />
+  <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-24D6B0?style=for-the-badge&logo=googlechrome&logoColor=101820" alt="Explore portfolio" />
 </a>
+<a href="https://github.com/ayeshaahmd">
+  <img src="https://img.shields.io/badge/FIND_ME_ON_GITHUB-1B3035?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile" />
+</a>
+
+<br/><br/>
+
+*Curiosity drives the idea. Engineering brings it to life.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24D6B0,100:101820&height=100&section=footer" alt="" />
 
 </div>
